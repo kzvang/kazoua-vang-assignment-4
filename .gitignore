@@ -1,0 +1,10 @@
+
+# specific files
+secrets.txt
+
+# Ignore these folders
+secrets/
+
+# Ignore files with these extensions
+*.tmp
+*.log
