@@ -1,11 +1,13 @@
-# Project Title
+# Assigment 4
 
-A brief description of your project.
+This is a merging conflict for assignment 4.
 
 ## Usage
 
-Instructions for using the project.
+1. Add your name.
 
-## Contributing
+2. Add a new paragraph.
 
-Instructions for contributing to the project.
+
+
+
